@@ -1,6 +1,8 @@
 # Infinite Scroll Image Gallery
 
-This project is a simple web application that fetches random images from the Unsplash API and implements an infinite scroll feature. As you scroll down the page, more images are loaded dynamically, providing an endless browsing experience.
+This project is a simple web application that fetches random images from the Unsplash API and implements an infinite scroll feature. As you scroll down the page, more images are loaded dynamically, providing an endless browsing experience. You can view live here on this link below
+
+## [Watch Live](https://chaad98.github.io/infinity-scroll/)
 
 ## Features
 
